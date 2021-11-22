@@ -1,0 +1,16 @@
+POST http://114.67.246.176:17565/index/chat
+Accept: */*
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Cookie: PHPSESSID=97695bab8321a6ed3cdd7c55b0b994a5
+Host: 114.67.246.176:17565
+Origin: http://114.67.246.176:17565
+Pragma: no-cache
+Referer: http://114.67.246.176:17565/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.41
+X-Requested-With: XMLHttpRequest
+
+msg=%E5%95%8A%E5%95%8A
